@@ -11,4 +11,3 @@ I'm an **Electrical and Computer Engineering graduate** from **Aristotle Univers
 ## 📫 How to Reach Me: 
 - 📧 [Email me](mailto:konstandinak48@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gkatzi-konstantina/)
-Initial commit of README
