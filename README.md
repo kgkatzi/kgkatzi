@@ -1,5 +1,5 @@
 # Hi, I'm Konstantina Gkatzi 👋
-
+ 
 I'm an **Electrical and Computer Engineering graduate** from **Aristotle University of Thessaloniki**, with a focus on **Robotics**, **Machine Learning**, and **Systems Design**. 
 
 ## 🚀 About Me
