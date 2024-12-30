@@ -8,6 +8,7 @@ I'm an **Electrical and Computer Engineering graduate** from **Aristotle Univers
 - 🔧 I've worked on a variety of projects involving **neural networks**, **image registration**, and **robotic control systems**.
 - 🌱 I’m currently learning more about **AI** and **Deep Learning**.
 
-## 📫 How to Reach Me:
+## 📫 How to Reach Me: 
 - 📧 [Email me](mailto:konstandinak48@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gkatzi-konstantina/)
+Initial commit of README
