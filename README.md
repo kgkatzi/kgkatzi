@@ -13,6 +13,9 @@ I'm an **Electrical and Computer Engineering graduate** from **Aristotle Univers
 - [**Neural Network Development**](https://github.com/kgkatzi/mlp_from_scratch): Built MLP, SVM, and RBF neural networks from scratch in Python.
 - [**Black Box Parameter Estimation**](https://github.com/kgkatzi/black-box): Analyzed unknown systems using MATLAB for minimum error. Implemented proof of linearity, parameter estimation (offline and online), and performance evaluation.
 - [**DNG2RGB**](https://github.com/kgkatzi/DNG2RGB): Created a MATLAB project to convert raw images in DNG format to RGB using functions for white balance, interpolation, and color space conversion.
+- [**Genetic Algorithm Optimization**](https://github.com/kgkatzi/genetic): Implemented a MATLAB-based Genetic Algorithm for solving optimization problems through selection, crossover, mutation, and fitness evaluation.
+
+
 
 ## 🤝 Team Projects
 - [**KitchenGuard-Arduino-Project**](https://github.com/kgkatzi/KitchenGuard-Arduino-Project): Designed a sensor network using Arduino to prevent kitchen accidents. Worked on developing real-time hazard detection for gas leaks, water boiling, fires, and water leaks, integrating wireless communication, LCD alerts, and buzzer notifications.
