@@ -1,6 +1,8 @@
 # Hi, I'm Konstantina Gkatzi 👋
  
-I'm an **Electrical and Computer Engineering graduate** from **Aristotle University of Thessaloniki**, with a focus on **Robotics**, **Machine Learning**, and **Systems Design**. 
+I'm an **Electrical and Computer Engineering graduate** from **Aristotle University of Thessaloniki**, with a background in **Machine Learning, Computer Vision, Robotics, and Software Systems**.
+
+Currently working as a **Data Scientist**, with experience in developing machine learning solutions for large-scale datasets. I'm particularly interested in **AI/ML Engineering, Computer Vision, GenAI, backend systems, and intelligent applications**.
 
 ## 📫 How to Reach Me: 
 - 📧 [Email me](mailto:konstandinak48@gmail.com)
@@ -21,7 +23,7 @@ I'm an **Electrical and Computer Engineering graduate** from **Aristotle Univers
 ## 🤝 Team Projects
 - [**KitchenGuard-Arduino-Project**](https://github.com/kgkatzi/KitchenGuard-Arduino-Project): Designed a sensor network using Arduino to prevent kitchen accidents. Worked on developing real-time hazard detection for gas leaks, water boiling, fires, and water leaks, integrating wireless communication, LCD alerts, and buzzer notifications.
 - [**UART Communication System**](https://github.com/kgkatzi/Uart): Developed a complete UART system in Verilog, including transmitter, receiver, and supporting modules for baud rate control, error detection, and LED display.
-- [**Data for Murders Website**](https://github.com/Nantina/database-web-app): Developed a full-stack web app using Python (Flask) for the backend and Angular for the frontend, providing CRUD functionalities for managing murder-related data.
+- [**Case Data Management Web Application**](https://github.com/Nantina/database-web-app): Developed a full-stack web app using Python (Flask) for the backend and Angular for the frontend, providing CRUD functionalities for managing murder-related data.
   
 ## Programming Languages
 
