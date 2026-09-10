@@ -7,6 +7,7 @@ I'm an **Electrical and Computer Engineering graduate** from **Aristotle Univers
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gkatzi-konstantina/)
 
 ## 🛠️ My Projects
+- [**RAG Infrastructure Foundation**](https://github.com/kgkatzi/rag-infrastructure): Built a containerized backend foundation for a RAG application using FastAPI, PostgreSQL, Chroma, Docker Compose, Pydantic Settings, and Pytest. Implemented service health checks, Docker networking, configuration management, and automated testing with 100% coverage.
 - [**OCR (Optical Character Recognition)**](https://github.com/kgkatzi/OCR): Developed an image-to-text model using Matlab and k-NN, achieving 95%+ accuracy.
 - [**Image Registration**](https://github.com/kgkatzi/Image-Registration): Integrated feature detection for satellite image alignment using Matlab.
 - [**Robotics Kinematic Control**](https://github.com/kgkatzi/Robotics): Engineered a 6-DOF robotic arm controller using Matlab's Robotics Toolbox for dynamic tracking.
